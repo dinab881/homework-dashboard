@@ -1,0 +1,56 @@
+{
+  "widgetList": [
+    {
+      "order": 1,
+      "name": "NavComponent",
+      "visible": true
+    },
+    {
+      "order": 2,
+      "name": "BannerComponent",
+      "visible": true
+    },
+    {
+      "order": 7,
+      "name": "StatisticsComponent",
+      "visible": true
+    },
+    {
+      "order": 6,
+      "name": "TableComponent",
+      "visible": false
+    },
+    {
+      "order": 5,
+      "name": "TestimonialsComponent",
+      "visible": true
+    },
+    {
+      "order": 8,
+      "name": "SliderComponent",
+      "visible": false
+    },
+    {
+      "order": 10,
+      "name": "MediaComponent",
+      "visible": true
+    },
+    {
+      "order": 9,
+      "name": "CarouselComponent",
+      "visible": true
+    },
+    {
+      "order": 4,
+      "name": "PictureComponent",
+      "visible": true
+    },
+    {
+      "order": 3,
+      "name": "GalleryComponent",
+      "visible": true
+    }
+  ]
+}
+
+
